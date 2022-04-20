@@ -41,7 +41,7 @@ I used skip logic to create the form so when certain answers are chosen then mor
 
 Here is the link to the form - [*The Mboalab Typhoid Questionnaire*](https://ee.kobotoolbox.org/preview/NOLIfOKd)  
 Here is a pdf version to see what it looks like (the skip logic questions are faded out in the pdf version) - 
-[MBOALAB TYPHOID QUESTIONNAIRE.pdf](https://github.com/GinikaJ/Mboalab_Outreachy-May-Aug-2022/files/8523366/MBOALAB.TYPHOID.QUESTIONNAIRE.pdf)
+[MBOALAB TYPHOID QUESTIONNAIRE.pdf](https://github.com/GinikaJ/Mboalab_Outreachy-May-Aug-2022/files/8523366/MBOALAB.TYPHOID.QUESTIONNAIRE.pdf) 
 
 
 #### ***The Mboalab Typhoid Questionnaire (Retrospective)***
